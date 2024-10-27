@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><id>1</id> <userId>1</userId> <date>2020-03-02</date> <productId>1</productId> <quantity>4</quantity></Row>
+<Row><id>2</id> <userId>1</userId> <date>2020-01-02</date> <productId>2</productId> <quantity>4</quantity></Row>
+<Row><id>3</id> <userId>2</userId> <date>2020-03-01</date> <productId>1</productId> <quantity>2</quantity></Row>
+<Row><id>4</id> <userId>3</userId> <date>2020-01-01</date> <productId>1</productId> <quantity>4</quantity></Row>
+<Row><id>5</id> <userId>3</userId> <date>2020-03-01</date> <productId>7</productId> <quantity>1</quantity></Row>
+<Row><id>6</id> <userId>4</userId> <date>2020-03-01</date> <productId>10</productId> <quantity>2</quantity></Row>
+<Row><id>7</id> <userId>8</userId> <date>2020-03-01</date> <productId>18</productId> <quantity>1</quantity></Row>
+</Rows>

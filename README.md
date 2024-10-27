@@ -1,2 +1,3 @@
-# ProductDataCleaning
-ETL process for migrating and cleaning product data from an e-commerce database.
+# shopData
+
+    Updating, analysing and processing shop data using Pentaho Kettle .
